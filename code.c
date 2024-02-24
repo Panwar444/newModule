@@ -21,3 +21,6 @@ three->next = NULL;
 
 /* Save address of first node in head */
 head = one;
+
+//new change added by shubham and this will help this app in this way
+head->next = start;
