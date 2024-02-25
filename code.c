@@ -29,3 +29,12 @@ head->next = start;
 //the latest change
 int a=5;
 int b=7;
+
+
+//the change
+struct student {
+    int a;
+    int *p;
+    int rollno;
+    char name[20];
+};
